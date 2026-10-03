@@ -6,7 +6,7 @@
 ---
 ## Dashboard Preview
 
-![Patient Treatment Recovery Dashboard](https://github.com/TofunmiTech01/patient-treatment-recovery/blob/main/patient-treatment.PNG)
+![Patient Treatment Recovery Dashboard](./patient-treatment-dashboard.PNG)
 
 ---
 
